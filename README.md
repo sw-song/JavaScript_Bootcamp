@@ -10,8 +10,8 @@
 
 ### 1주차
 - [프로그래밍이란?](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/1_week/About_Programming.md)
-- 자바스크립트 언어 특징
-- 자바스크립트 문법과 데이터 타입
+- [자바스크립트 언어 특징](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/1_week/About_JavaScript.md)
+- [자바스크립트 문법과 데이터 타입](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/1_week/Expression_vs_Statement.md)
 
 ### 2주차
 - 프로그래밍 입문자를 위한 팁
@@ -35,3 +35,4 @@
 
 ### 8주차(종강)
 - 마무리, 후기
+
