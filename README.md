@@ -9,7 +9,7 @@
 > 기관 확인을 거쳐 허용 범위 내에서 주차별 내용을 정리/공유합니다.
 
 ### 1주차
-- 프로그래밍이란?
+- [프로그래밍이란?](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/1_week/About_Programming.md)
 - 자바스크립트 언어 특징
 - 자바스크립트 문법과 데이터 타입
 
