@@ -9,15 +9,18 @@
 > 기관 확인을 거쳐 허용 범위 내에서 주차별 내용을 정리/공유합니다.
 
 ### 1주차
-- 프로그래밍이란?
-- 자바스크립트 언어 특징
-- 자바스크립트 문법과 데이터 타입
+- [프로그래밍이란?](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/1_week/About_Programming.md)
+- [자바스크립트 언어 특징](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/1_week/About_JavaScript.md)
+- [자바스크립트 문법과 데이터 타입](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/1_week/Expression_vs_Statement.md)
 
 ### 2주차
-- 프로그래밍 입문자를 위한 팁
+- [프로그래밍 입문자를 위한 팁](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/2_week/Tips_for_begineer.md)
+
 
 ### 3주차
-- 객체
+- [객체](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/3_week/Object.md)
+
+
 
 ### 4주차
 - Scope

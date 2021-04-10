@@ -14,10 +14,13 @@
 - [자바스크립트 문법과 데이터 타입](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/1_week/Expression_vs_Statement.md)
 
 ### 2주차
-- 프로그래밍 입문자를 위한 팁
+- [프로그래밍 입문자를 위한 팁](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/2_week/Tips_for_begineer.md)
+
 
 ### 3주차
-- 객체
+- [객체](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/3_week/Object.md)
+
+
 
 ### 4주차
 - Scope
