@@ -21,14 +21,13 @@
 - [객체](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/3_week/Object.md)
 
 
-
 ### 4주차
-- Scope
-- DOM
-- Prototype
+- [Scope](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/4_week/Scope_and_Closer.md)
+- [DOM](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/4_week/DOM.md)
+- [Prototype](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/4_week/prototype.md)
 
 ### 5주차
-- 자바스크립트 개발 트랜드
+- [자바스크립트 개발 트랜드](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/5_week/trends.md)
 
 ### 6주차
 - promise
