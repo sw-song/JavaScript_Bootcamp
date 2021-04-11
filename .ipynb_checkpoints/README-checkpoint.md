@@ -30,10 +30,10 @@
 - [자바스크립트 개발 트랜드](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/5_week/trends.md)
 
 ### 6주차
-- promise
+- [promise](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/6_week/Promise.md)
 
 ### 7주차
-- 객체 복사
+- [객체 복사](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/7_week/assign.md)
 
 ### 8주차(종강)
-- 마무리, 후기
+- [마무리, 후기](https://github.com/sw-song/JavaScript_Bootcamp/blob/main/8_week/Review.md)
