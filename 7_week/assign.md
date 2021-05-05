@@ -82,7 +82,7 @@ Object { a: 1, b: 4, c: 5}
 새로운 객체를 담을 변수 ```returnedTarget```은 target object를 통해 만들어진다.
 그렇다는 것은 target(객체)은 returnedTarget과 같은 주소값을 공유한다는 것을 의미한다.
 
-```assign()``` 메소드로 객체를 만들고 그 객체를 returnedTarget에 반환한 것이기 때문에 당연하게도 target을 확인해보면 ```{a: 1, b: 2}```가 아닌, ```{a: 1, b: 4, c: 5```로 출력이 된다.
+```assign()``` 메소드로 객체를 만들고 그 객체를 returnedTarget에 반환한 것이기 때문에 당연하게도 target을 확인해보면 ```{a: 1, b: 2}```가 아닌, ```{a: 1, b: 4, c: 5}```로 출력이 된다.
 
 ```assign()```은 객체의 원본 변형을 피하기 위한 목적으로 등장했다. 따라서 아래와 같이 target object는 빈 객체로 만들어주고 source objects를 넣어주는 형태로 코드를 작성해주는 것이 좋겠다.
 
